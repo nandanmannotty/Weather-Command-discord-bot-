@@ -1,4 +1,4 @@
-//cut the ("../../config.js"); line if you facing errors !!!
+//command handler is required if you using this code below.
 
 const Discord = require("discord.js");
 const weather = require("weather-js");
